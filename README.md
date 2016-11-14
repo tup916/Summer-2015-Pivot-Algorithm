@@ -21,5 +21,5 @@ During my first year, I didn't know about version control, which I wish I did be
 
 
 2. Use better nomenclature
-
+Over the past few months of being a CS student, I have realized that 
 3. Use better comments
