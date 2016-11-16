@@ -20,13 +20,15 @@ Because of my much busier schedule, I cannot find the time to fix this code. I w
 If given a chance and the time to do this project over, this is how I would approach it:
 
 1. Use Version Control
+
 During my first year, I didn't know about version control, which I wish I did because it could have been significantly useful to me in this project. I first succeeded in computationally generating all 124 12-edged self-avoiding polygons. Although I saved different variations of the file, going back to them and finding the one I want is hard. I also might have altered the successful 12edged algorithm file to make it more robust with 14 edges as well, and messed it up. 
 
 
 2. Use better nomenclature
-Over the past few months of being a CS student, I have realized that naming variables and functions is as important as commenting, if not more. I admit that this project's variables are not very informative and to be honest, if I look at someone's code which looks like this, I would be pulling my hair out. Variables names should be informative. Function names should accurately tell what the function is about.
+Over the past few months of being a CS student, I have realized that the quality is as imporant as the workability of code. Yes, it is a big accomplishment to go from something that doesn't work to something that works. However, naming variables and functions is as important as the intelligence of a code itself, if not more. I admit that this project's variables are not very informative and to be honest, if I look at someone's code which looks like this, I would be pulling my hair out. Variables names should be informative. Function names should accurately tell what the function is about.
 
 3. Use better comments
+
 In this project, I have mostly used comments as separators, which is nice, but when I went back to see what the code is about, they were not very helpful. I wish I had a detailed header with comments that follows a specific format, such as the one below:
 
    function name
@@ -40,7 +42,7 @@ In this project, I have mostly used comments as separators, which is nice, but w
    Postcondition:
 
 
-4. Tests
+4. Tests:
 I wish I had created unit tests for for each of the major functions do. Directly aiming for getting the entire system to work is a bad idea. There should be unit tests as well as integration tests.
 
 
