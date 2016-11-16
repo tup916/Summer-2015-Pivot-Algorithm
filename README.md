@@ -31,7 +31,7 @@ In this project, I have mostly used comments as separators, which is nice, but w
 
    function name
    
-   Brief explanation of what it does.
+   Brief explanation of what it does
    
    Precondition:
    
