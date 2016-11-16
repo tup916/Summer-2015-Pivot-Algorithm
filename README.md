@@ -11,7 +11,8 @@ I started this in Summer 2015, and it seemed to be working fine, before I wanted
 complicated stuff and messed it all up.
 The 115 times file should tell you what I had produced before I messed it up.
 
-FOR POTENTIAL RECRUITERS
+FOR POTENTIAL RECRUITERS:
+
 Because of my much busier schedule, I cannot find the time to fix this code. I worked on this project after having taken only one computer science course in university, when I focussed on resuts than readability of the code. I admit that this code is one of the worst managed projects that I have done as a beginner, which is why I have debated deleting the project from my Git account. However, I do want to keep this repository on here, because it shows me how much I have improved and how much I have grown from my frist year (which was only two years ago). 
 
 If given a chance and the time to do this project over, this is how I would approach it:
@@ -26,11 +27,12 @@ Over the past few months of being a CS student, I have realized that naming vari
 3. Use better comments
 In this project, I have mostly used comments as separators, which is nice, but when I went back to see what the code is about, they were not very helpful. I wish I had a detailed header with comments that follows a specific format, such as the one below:
 
-// function Name
-// Brief explanation of what it does.
-// Precondition:
-// Returns:
-// Postcondition:
+  // function name
+  // Brief explanation of what it does.
+  // Precondition:
+  // Returns:
+  // Postcondition:
+
 
 4. Tests
 I wish I had created unit tests for for each of the major functions do. Directly aiming for getting the entire system to work is a bad idea. There should be unit tests as well as integration tests.
