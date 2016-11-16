@@ -29,11 +29,11 @@ Over the past few months of being a CS student, I have realized that the quality
 3. Use better comments: 
 In this project, I have mostly used comments as separators, which is nice, but when I went back to see what the code is about, they were not very helpful. I wish I had a detailed header with comments that follows a specific format, such as the one below:
 
-   function name
-   Brief explanation of what it does
-   Precondition:
-   Returns:
-   Postcondition:
+   -function name
+   -Brief explanation of what it does
+   -Precondition:
+   -Returns:
+   -Postcondition:
 
 
 4. Tests:
